@@ -1,0 +1,4 @@
+<http://example.org/test#subject> a <http://example.org/test/object>.
+<http://example.org/test#subject> = <http://example.org/test/object>.
+<http://example.org/test/object> <= <http://example.org/test#subject>.
+<http://example.org/test#subject> => <http://example.org/test/object>.

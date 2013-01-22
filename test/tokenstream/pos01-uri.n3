@@ -1,0 +1,7 @@
+<>
+<http://example.org/test#subject>
+<http://example.org/test?q=1&p=%20#predicate>
+<http://example.org/test/object>
+<http://example.org/
+	test/
+object>

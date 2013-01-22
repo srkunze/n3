@@ -1,0 +1,3 @@
+@base <http://example.org/test#subject>
+@base <http://example.org/test?q=1&p=%20#predicate>.
+@base <http://example.org/test/object>
