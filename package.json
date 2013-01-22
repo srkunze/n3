@@ -1,0 +1,30 @@
+{
+	"name": "n3",
+	"version": "0.0.1",
+	"description": "Tool for parsing N3",
+	"author":
+	{
+		"name": "Sven R. Kunze",
+		"email": "sven.kunze@s2007.tu-chemnitz.de"
+	},
+	"keywords":
+	[
+		"rdf",
+		"n3",
+		"notation3",
+		"triple",
+		"quad",
+		"stream"
+	],
+
+	"main": "./n3.js",
+	"engines":
+	{
+		"node": ">=0.8.0"
+	},
+	"repository":
+	{
+		"type": "git",
+		"url": "https://github.com/srkunze/n3.git"
+	}
+}
