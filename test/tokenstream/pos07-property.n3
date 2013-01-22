@@ -2,3 +2,5 @@
 <http://example.org/test#subject> = <http://example.org/test/object>.
 <http://example.org/test/object> <= <http://example.org/test#subject>.
 <http://example.org/test#subject> => <http://example.org/test/object>.
+<http://example.org/test#subject> has <> <http://example.org/test/object>.
+<http://example.org/test/object> is <> of <http://example.org/test#subject>.
