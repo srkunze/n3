@@ -9,4 +9,3 @@ module.exports.createTokenStream = function(debug_stream)
 {
 	return new ts.TokenStream(debug_stream);
 };
-
